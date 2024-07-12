@@ -19,6 +19,8 @@ Aquí tendrá acceso al [resumen](https://github.com/MMFBio/Simposio_Latinoameri
   
 - **/Resumo_Práticas_em_saúde_baseada_em_evidências_Marilia_Melo_Favalesso.pdf** - Resumen del trabajo, proporcionando una visión general sobre la caracterización clínica y epidemiológica de los accidentes con Lonomia en Misiones, Argentina.
 
+- **/mensao_honrosa.pdf**: Certificado de mensão honrosa ao trabalho. 
+
 ## Sobre el Estudio
 
 El estudio presenta una descripción epidemiológica de los accidentes con *Lonomia* registrados por el Hospital SAMIC de Puerto Iguazú, entre 2014 y 2018. Los análisis incluyeron la distribución de los casos por año, mes, departamento, factores demográficos, características del accidente, datos clínicos y tratamiento recibido.
